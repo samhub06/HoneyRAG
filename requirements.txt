@@ -1,0 +1,5 @@
+prefect==2.10.0
+streamlit==1.25.0
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+gpt4all==0.3.0
