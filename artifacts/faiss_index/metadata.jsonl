@@ -1,0 +1,386 @@
+{"timestamp": "2026-02-26T10:00:00Z", "src_ip": "192.168.1.10", "message": "Failed SSH login attempt"}
+{"timestamp": "2026-02-26T10:05:00Z", "src_ip": "192.168.1.11", "message": "User entered command: ls -la"}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T04:05:10.397401Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T04:05:10.401359Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T04:05:10.422865Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T04:05:25.301141Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-03-12T04:05:25.330707Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-03-13T02:28:50.979777Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-13T02:28:51.002320Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-13T02:28:51.016361Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-13T02:28:51.031065Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-13T02:28:51.116926Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-13T02:29:03.803993Z", "src_ip": "127.0.0.1", "message": "CMD: ifconfig"}
+{"timestamp": "2026-03-13T02:29:03.847264Z", "src_ip": "127.0.0.1", "message": "CMD: netstat -an"}
+{"timestamp": "2026-03-13T02:29:03.885531Z", "src_ip": "127.0.0.1", "message": "CMD: ping -c 3 8.8.8.8"}
+{"timestamp": "2026-03-13T02:35:42.287525Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-13T02:35:42.302984Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-13T02:35:42.333551Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-13T02:35:42.351437Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-13T02:35:42.368366Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T04:05:10.397401Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T04:05:10.401359Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T04:05:10.422865Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T04:05:25.301141Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-03-12T04:05:25.330707Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-03-13T02:28:50.979777Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-13T02:28:51.002320Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-13T02:28:51.016361Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-13T02:28:51.031065Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-13T02:28:51.116926Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-13T02:29:03.803993Z", "src_ip": "127.0.0.1", "message": "CMD: ifconfig"}
+{"timestamp": "2026-03-13T02:29:03.847264Z", "src_ip": "127.0.0.1", "message": "CMD: netstat -an"}
+{"timestamp": "2026-03-13T02:29:03.885531Z", "src_ip": "127.0.0.1", "message": "CMD: ping -c 3 8.8.8.8"}
+{"timestamp": "2026-03-13T02:35:42.287525Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-13T02:35:42.302984Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-13T02:35:42.333551Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-13T02:35:42.351437Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-13T02:35:42.368366Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:29:58.046169Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T02:29:58.047086Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:29:58.055267Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T02:29:58.056053Z", "src_ip": "127.0.0.1", "message": "CMD: # Looking for sensitive files"}
+{"timestamp": "2026-03-14T02:29:58.056813Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-03-14T02:29:58.058212Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-03-14T02:29:58.060695Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /home"}
+{"timestamp": "2026-03-14T02:29:58.066218Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /root"}
+{"timestamp": "2026-03-14T02:29:58.068226Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T02:35:56.327961Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-14T02:35:56.331635Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-14T02:35:56.370666Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-14T02:35:56.374084Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T02:35:56.378167Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T04:05:10.397401Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T04:05:10.401359Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T04:05:10.422865Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T04:05:25.301141Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-03-12T04:05:25.330707Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-03-13T02:28:50.979777Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-13T02:28:51.002320Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-13T02:28:51.016361Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-13T02:28:51.031065Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-13T02:28:51.116926Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-13T02:29:03.803993Z", "src_ip": "127.0.0.1", "message": "CMD: ifconfig"}
+{"timestamp": "2026-03-13T02:29:03.847264Z", "src_ip": "127.0.0.1", "message": "CMD: netstat -an"}
+{"timestamp": "2026-03-13T02:29:03.885531Z", "src_ip": "127.0.0.1", "message": "CMD: ping -c 3 8.8.8.8"}
+{"timestamp": "2026-03-13T02:35:42.287525Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-13T02:35:42.302984Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-13T02:35:42.333551Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-13T02:35:42.351437Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-13T02:35:42.368366Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:29:58.046169Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T02:29:58.047086Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:29:58.055267Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T02:29:58.056053Z", "src_ip": "127.0.0.1", "message": "CMD: # Looking for sensitive files"}
+{"timestamp": "2026-03-14T02:29:58.056813Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-03-14T02:29:58.058212Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-03-14T02:29:58.060695Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /home"}
+{"timestamp": "2026-03-14T02:29:58.066218Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /root"}
+{"timestamp": "2026-03-14T02:29:58.068226Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T02:35:56.327961Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-14T02:35:56.331635Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-14T02:35:56.370666Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-14T02:35:56.374084Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T02:35:56.378167Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:35:56.327961Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-14T02:35:56.331635Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-14T02:35:56.370666Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-14T02:35:56.374084Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T02:35:56.378167Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:56:42.880129Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-14T02:56:42.885557Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-14T02:56:42.901878Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-14T02:56:42.905895Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T02:56:42.910412Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:56:42.930778Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T02:56:42.935791Z", "src_ip": "127.0.0.1", "message": "CMD: # Looking for sensitive files"}
+{"timestamp": "2026-03-14T02:56:42.939248Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-03-14T02:56:42.945627Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-03-14T02:56:42.956543Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /home"}
+{"timestamp": "2026-03-14T02:56:42.962651Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /root"}
+{"timestamp": "2026-03-14T02:56:42.968559Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T04:05:10.397401Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T04:05:10.401359Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T04:05:10.422865Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T04:05:25.301141Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-03-12T04:05:25.330707Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-03-13T02:28:50.979777Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-13T02:28:51.002320Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-13T02:28:51.016361Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-13T02:28:51.031065Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-13T02:28:51.116926Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-13T02:29:03.803993Z", "src_ip": "127.0.0.1", "message": "CMD: ifconfig"}
+{"timestamp": "2026-03-13T02:29:03.847264Z", "src_ip": "127.0.0.1", "message": "CMD: netstat -an"}
+{"timestamp": "2026-03-13T02:29:03.885531Z", "src_ip": "127.0.0.1", "message": "CMD: ping -c 3 8.8.8.8"}
+{"timestamp": "2026-03-13T02:35:42.287525Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-13T02:35:42.302984Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-13T02:35:42.333551Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-13T02:35:42.351437Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-13T02:35:42.368366Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:29:58.046169Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T02:29:58.047086Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:29:58.055267Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T02:29:58.056053Z", "src_ip": "127.0.0.1", "message": "CMD: # Looking for sensitive files"}
+{"timestamp": "2026-03-14T02:29:58.056813Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-03-14T02:29:58.058212Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-03-14T02:29:58.060695Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /home"}
+{"timestamp": "2026-03-14T02:29:58.066218Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /root"}
+{"timestamp": "2026-03-14T02:29:58.068226Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T02:35:56.327961Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-14T02:35:56.331635Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-14T02:35:56.370666Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-14T02:35:56.374084Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T02:35:56.378167Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:35:56.327961Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-14T02:35:56.331635Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-14T02:35:56.370666Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-14T02:35:56.374084Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T02:35:56.378167Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:56:42.880129Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-14T02:56:42.885557Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-14T02:56:42.901878Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-14T02:56:42.905895Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T02:56:42.910412Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:56:42.930778Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T02:56:42.935791Z", "src_ip": "127.0.0.1", "message": "CMD: # Looking for sensitive files"}
+{"timestamp": "2026-03-14T02:56:42.939248Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-03-14T02:56:42.945627Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-03-14T02:56:42.956543Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /home"}
+{"timestamp": "2026-03-14T02:56:42.962651Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /root"}
+{"timestamp": "2026-03-14T02:56:42.968559Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T05:00:20.992049Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-14T05:00:21.265374Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-14T05:00:21.425961Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-14T05:00:21.531582Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T05:00:21.600207Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T05:00:22.010155Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T05:00:22.060086Z", "src_ip": "127.0.0.1", "message": "CMD: # Looking for sensitive files"}
+{"timestamp": "2026-03-14T05:00:22.103328Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-03-14T05:00:22.242562Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-03-14T05:00:22.328886Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /home"}
+{"timestamp": "2026-03-14T05:00:22.387853Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /root"}
+{"timestamp": "2026-04-03T04:38:45.526050Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-04-03T04:38:45.545739Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-04-03T04:38:45.560573Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-04-03T04:38:45.584157Z", "src_ip": "127.0.0.1", "message": "CMD: echo \"note: this is a harmless demo comment  no real harm\""}
+{"timestamp": "2026-04-03T04:39:24.952847Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-04-03T04:39:24.994661Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-04-03T04:39:25.027529Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /home"}
+{"timestamp": "2026-04-03T04:39:25.050485Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /root"}
+{"timestamp": "2026-04-03T04:42:08.912235Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-04-03T04:42:08.921418Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-04-03T04:42:08.932763Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-04-03T04:42:08.939305Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-04-03T04:42:08.950687Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-04-03T04:42:08.982250Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-04-03T04:42:09.012771Z", "src_ip": "127.0.0.1", "message": "CMD: # Looking for sensitive files"}
+{"timestamp": "2026-04-03T04:42:09.018221Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-04-03T04:42:09.037673Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-04-03T04:42:09.049287Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /home"}
+{"timestamp": "2026-04-03T04:42:09.063262Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /root"}
+{"timestamp": "2026-04-03T04:42:09.072153Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-04-03T04:42:09.082702Z", "src_ip": "127.0.0.1", "message": "CMD: # Network exploration"}
+{"timestamp": "2026-04-03T04:42:09.097111Z", "src_ip": "127.0.0.1", "message": "CMD: ifconfig"}
+{"timestamp": "2026-04-03T04:42:09.110872Z", "src_ip": "127.0.0.1", "message": "CMD: netstat -an"}
+{"timestamp": "2026-04-03T04:42:09.126325Z", "src_ip": "127.0.0.1", "message": "CMD: ping -c 3 8.8.8.8"}
+{"timestamp": "2026-04-03T04:42:09.136753Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-04-03T04:42:09.151795Z", "src_ip": "127.0.0.1", "message": "CMD: # Attempting privilege escalation"}
+{"timestamp": "2026-04-03T04:42:09.160231Z", "src_ip": "127.0.0.1", "message": "CMD: sudo -l"}
+{"timestamp": "2026-04-03T04:42:09.169585Z", "src_ip": "127.0.0.1", "message": "CMD: su root"}
+{"timestamp": "2026-04-03T04:42:09.189611Z", "src_ip": "127.0.0.1", "message": "CMD: echo \"test\" > /tmp/hack.txt"}
+{"timestamp": "2026-04-03T04:42:14.032801Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:48:36.101903Z", "src_ip": "127.0.0.1", "message": "CMD: tar -czf /tmp/data.tar.gz /etc"}
+{"timestamp": "2026-03-12T03:49:26.379103Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:49:26.386073Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:49:26.419043Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T03:50:47.670853Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T03:50:47.682429Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T03:50:47.714922Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T04:05:10.397401Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-12T04:05:10.401359Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-12T04:05:10.422865Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la"}
+{"timestamp": "2026-03-12T04:05:25.301141Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-03-12T04:05:25.330707Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-03-13T02:28:50.979777Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-13T02:28:51.002320Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-13T02:28:51.016361Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-13T02:28:51.031065Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-13T02:28:51.116926Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-13T02:29:03.803993Z", "src_ip": "127.0.0.1", "message": "CMD: ifconfig"}
+{"timestamp": "2026-03-13T02:29:03.847264Z", "src_ip": "127.0.0.1", "message": "CMD: netstat -an"}
+{"timestamp": "2026-03-13T02:29:03.885531Z", "src_ip": "127.0.0.1", "message": "CMD: ping -c 3 8.8.8.8"}
+{"timestamp": "2026-03-13T02:35:42.287525Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-13T02:35:42.302984Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-13T02:35:42.333551Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-13T02:35:42.351437Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-13T02:35:42.368366Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:29:58.046169Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T02:29:58.047086Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:29:58.055267Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T02:29:58.056053Z", "src_ip": "127.0.0.1", "message": "CMD: # Looking for sensitive files"}
+{"timestamp": "2026-03-14T02:29:58.056813Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-03-14T02:29:58.058212Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-03-14T02:29:58.060695Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /home"}
+{"timestamp": "2026-03-14T02:29:58.066218Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /root"}
+{"timestamp": "2026-03-14T02:29:58.068226Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T02:35:56.327961Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-14T02:35:56.331635Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-14T02:35:56.370666Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-14T02:35:56.374084Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T02:35:56.378167Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:35:56.327961Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-14T02:35:56.331635Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-14T02:35:56.370666Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-14T02:35:56.374084Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T02:35:56.378167Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:56:42.880129Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-14T02:56:42.885557Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-14T02:56:42.901878Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-14T02:56:42.905895Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T02:56:42.910412Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T02:56:42.930778Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T02:56:42.935791Z", "src_ip": "127.0.0.1", "message": "CMD: # Looking for sensitive files"}
+{"timestamp": "2026-03-14T02:56:42.939248Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-03-14T02:56:42.945627Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-03-14T02:56:42.956543Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /home"}
+{"timestamp": "2026-03-14T02:56:42.962651Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /root"}
+{"timestamp": "2026-03-14T02:56:42.968559Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T05:00:20.992049Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-03-14T05:00:21.265374Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-03-14T05:00:21.425961Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-03-14T05:00:21.531582Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-03-14T05:00:21.600207Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-03-14T05:00:22.010155Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-03-14T05:00:22.060086Z", "src_ip": "127.0.0.1", "message": "CMD: # Looking for sensitive files"}
+{"timestamp": "2026-03-14T05:00:22.103328Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-03-14T05:00:22.242562Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-03-14T05:00:22.328886Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /home"}
+{"timestamp": "2026-03-14T05:00:22.387853Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /root"}
+{"timestamp": "2026-04-03T04:38:45.526050Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-04-03T04:38:45.545739Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-04-03T04:38:45.560573Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-04-03T04:38:45.584157Z", "src_ip": "127.0.0.1", "message": "CMD: echo \"note: this is a harmless demo comment  no real harm\""}
+{"timestamp": "2026-04-03T04:39:24.952847Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-04-03T04:39:24.994661Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-04-03T04:39:25.027529Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /home"}
+{"timestamp": "2026-04-03T04:39:25.050485Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /root"}
+{"timestamp": "2026-04-03T04:42:08.912235Z", "src_ip": "127.0.0.1", "message": "CMD: whoami"}
+{"timestamp": "2026-04-03T04:42:08.921418Z", "src_ip": "127.0.0.1", "message": "CMD: uname -a"}
+{"timestamp": "2026-04-03T04:42:08.932763Z", "src_ip": "127.0.0.1", "message": "CMD: id"}
+{"timestamp": "2026-04-03T04:42:08.939305Z", "src_ip": "127.0.0.1", "message": "CMD: pwd"}
+{"timestamp": "2026-04-03T04:42:08.950687Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /"}
+{"timestamp": "2026-04-03T04:42:08.982250Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-04-03T04:42:09.012771Z", "src_ip": "127.0.0.1", "message": "CMD: # Looking for sensitive files"}
+{"timestamp": "2026-04-03T04:42:09.018221Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/passwd"}
+{"timestamp": "2026-04-03T04:42:09.037673Z", "src_ip": "127.0.0.1", "message": "CMD: cat /etc/shadow"}
+{"timestamp": "2026-04-03T04:42:09.049287Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /home"}
+{"timestamp": "2026-04-03T04:42:09.063262Z", "src_ip": "127.0.0.1", "message": "CMD: ls -la /root"}
+{"timestamp": "2026-04-03T04:42:09.072153Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-04-03T04:42:09.082702Z", "src_ip": "127.0.0.1", "message": "CMD: # Network exploration"}
+{"timestamp": "2026-04-03T04:42:09.097111Z", "src_ip": "127.0.0.1", "message": "CMD: ifconfig"}
+{"timestamp": "2026-04-03T04:42:09.110872Z", "src_ip": "127.0.0.1", "message": "CMD: netstat -an"}
+{"timestamp": "2026-04-03T04:42:09.126325Z", "src_ip": "127.0.0.1", "message": "CMD: ping -c 3 8.8.8.8"}
+{"timestamp": "2026-04-03T04:42:09.136753Z", "src_ip": "127.0.0.1", "message": "CMD: "}
+{"timestamp": "2026-04-03T04:42:09.151795Z", "src_ip": "127.0.0.1", "message": "CMD: # Attempting privilege escalation"}
+{"timestamp": "2026-04-03T04:42:09.160231Z", "src_ip": "127.0.0.1", "message": "CMD: sudo -l"}
+{"timestamp": "2026-04-03T04:42:09.169585Z", "src_ip": "127.0.0.1", "message": "CMD: su root"}
+{"timestamp": "2026-04-03T04:42:09.189611Z", "src_ip": "127.0.0.1", "message": "CMD: echo \"test\" > /tmp/hack.txt"}
+{"timestamp": "2026-04-03T04:42:14.032801Z", "src_ip": "127.0.0.1", "message": "CMD: "}

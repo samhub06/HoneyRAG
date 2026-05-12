@@ -1,13 +1,45 @@
 import streamlit as st
-import subprocess
+import pandas as pd
 
-st.title("HoneyRAG Dashboard")
+# Load the answers.log file
+df = pd.read_json("answers.log", lines=True)
 
-if st.button("Run demo pipeline"):
-    with st.spinner("Running pipeline..."):
-        proc = subprocess.run(["python", "orchestrator/flow_demo.py"], capture_output=True, text=True)
-        st.code(proc.stdout)
-        if proc.stderr:
-            st.error(proc.stderr)
+st.set_page_config(page_title="RAG-Enhanced Honeypot Analyzer", layout="wide")
+st.title("🛡️ RAG-Enhanced Honeypot Analyzer")
 
-st.info("Connect Prefect Orion for full run history.")
+# Summary counter
+st.metric("Total Attacks Detected", len(df))
+
+# Show the last 5 entries
+for _, row in df.tail(5).iterrows():
+    st.markdown("### 📌 Attack Summary")
+    st.write(row["answer"])
+
+    # Severity detection
+    ctx = row["context"].lower()
+    if "shadow" in ctx or "passwd" in ctx:
+        severity = "High"
+        color = "🔴"
+    elif "failed ssh" in ctx:
+        severity = "Medium"
+        color = "🟠"
+    else:
+        severity = "Low"
+        color = "🟢"
+
+    st.markdown(f"### 🚨 Attack Severity: {color} {severity}")
+
+    # Details section
+    with st.expander("📄 Details (click to expand)"):
+        st.text(row["context"])
+
+    # Recommendations
+    st.markdown("### 🛠️ Recommendations")
+    if severity == "High":
+        st.write("- Patch vulnerable services\n- Monitor accounts\n- Block suspicious IPs")
+    elif severity == "Medium":
+        st.write("- Investigate login attempts\n- Review authentication logs")
+    else:
+        st.write("- Monitor activity\n- No immediate action required")
+
+    st.markdown("---")
