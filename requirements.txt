@@ -12,3 +12,20 @@ sentence-transformers==2.2.2
 
 # Local LLM integration (latest available on PyPI)
 gpt4all==0.1.7
+
+# Supporting libraries
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.0
+requests==2.32.3
+
+Save this as requirements.txt in your repo root (HoneyRAG/).
+
+Run:
+
+powershell
+pip install -r requirements.txt
+Verify installation:
+
+powershell
+pip list
