@@ -25,6 +25,7 @@ Run:
 
 powershell
 pip install -r requirements.txt
+
 Verify installation:
 
 powershell
