@@ -1,5 +1,14 @@
+# Core workflow orchestration
 prefect==2.10.0
+
+# Dashboard / UI
 streamlit==1.25.0
-faiss-cpu==1.7.4
+
+# Vector database for embeddings
+faiss-cpu==1.12.0
+
+# Embedding models
 sentence-transformers==2.2.2
-gpt4all==0.3.0
+
+# Local LLM integration (latest available on PyPI)
+gpt4all==0.1.7
